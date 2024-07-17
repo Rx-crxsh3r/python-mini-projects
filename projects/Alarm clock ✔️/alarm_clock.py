@@ -43,7 +43,7 @@ def alarm():
                 update_alarm_list()
                 show_wakeup_window()
                 # Playing sound
-                pygame.mixer.music.load("C:/Users/thebl/Fly Me To The Moon (2008 Remastered) [ZEcqHA7dbwM].mp3")
+                pygame.mixer.music.load("sounds.mp3")
                 pygame.mixer.music.play()
                 break
 
