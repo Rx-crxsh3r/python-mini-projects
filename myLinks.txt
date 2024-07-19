@@ -1,0 +1,1 @@
+['/', '/', 'https://www.youtube.com/about/', 'https://www.youtube.com/about/press/', 'https://www.youtube.com/about/copyright/', '/t/contact_us/', 'https://www.youtube.com/creators/', 'https://www.youtube.com/ads/', 'https://developers.google.com/youtube', '/t/terms']
