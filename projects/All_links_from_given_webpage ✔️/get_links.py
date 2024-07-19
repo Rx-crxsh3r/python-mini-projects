@@ -46,7 +46,7 @@ if not validate_url(url):
     url = "https://" + url
 
 # Check if myLinks.txt has existing data
-filename = r"C:\Users\thebl\Desktop\‎\folder1\mini-stuff\python-mini-projects\projects\All_links_from_given_webpage\myLinks.txt"
+filename = "myLinks.txt"
 if check_file_exists_and_has_data(filename):
     user_choice = input("myLinks.txt has existing data. Do you want to continue? (Y/N): ").strip().upper()
     if user_choice != 'Y':
